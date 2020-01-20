@@ -13,6 +13,6 @@ The chart "Outcomes Based on Goals" shows that the number of successful campaign
 
 The chart "Outcomes Based on a Launch Date" indicate that the most successful month for theater are in May with 111 campaigns funded.
 
-<img width=“500" alt=“screenshot of initial comit” src=“https://github.com/Samira786/Kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Goals.png?raw=true”>
+<img width=“500" alt=“Module 1 Challenge” src=“https://github.com/Samira786/Kickstarter-analysis/blob/master/OutcomesGoals.png”>
                 
 A detailed analysis can be found in the repository.
