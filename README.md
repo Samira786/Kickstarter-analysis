@@ -7,7 +7,7 @@ The Module 1 challenge consists of comparisons between Kickstarter campaigns.
 
 The chart "Outcomes Based on Goals" shows that the number of successful campaigns is 694 out of 1047 (66%) and the number of failed campaigns is 353 out of 1047 (~33%).A goal of less than $1000 was the highest percentage successful (76%), while a goal between 45000 and 49999 failed at 100%.
 
-![Outcomes Based on Goals](images/OutcomesGoals.png”)
+![Outcomes Based on Goals](OutcomesGoals.png”)
 <img width=“500” alt=“Module 1 Challenge” src= “https://github.com/Samira786/Kickstarter-analysis/blob/master/OutcomesGoals.png”>
 
 ### Screenshot of Theater Outcomes Based on Launch Date
