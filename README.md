@@ -16,3 +16,9 @@ The chart "Outcomes Based on a Launch Date" indicate that the most successful mo
 ![Outcomes Based on Launch Date](https://github.com/Samira786/Kickstarter-analysis/blob/master/OutcomesLaunch.png)
                 
 A detailed analysis can be found in the repository.
+
+### Files
+
+The 'data-1-1-3-StarterBook (2).xlsx.zip' file is the exercise before the Module 1 Challenge. 
+
+The Module 1 Challenge documents are : 'Module 1 Challenge Analysis.docx' and 'Module 1 Challenge HW - Excel.xlsx'
